@@ -1,3 +1,5 @@
+# This repo is no longer active, and development has been moved to [JazzHands](https://github.com/project-wavelets/JazzHands)d
+
 # wavelets
 Weighted Wavelet Z-transforms for unevenly sampled data, optimized for large time series.
 
